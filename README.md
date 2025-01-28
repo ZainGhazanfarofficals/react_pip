@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# reactpip
-=======
+
 # React Picture-in-Picture Library (react-pip-doc)
 
 
@@ -135,4 +133,3 @@ If you don't provide custom buttons, the library will use default styled buttons
 ## License
 
 MIT © [ZainGhazanfarofficals](https://github.com/ZainGhazanfarofficals)
->>>>>>> master
